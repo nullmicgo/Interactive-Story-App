@@ -4,4 +4,6 @@ Project files for "Signals from Mars" from the Build an Interactive Story Androi
 
 Android App Screen Flow
 
-![Android App Demo Screen Flow](https://raw.githubusercontent.com/nullmicgo/Interactive-Story-App/master/demo.gif)
+
+
+<img src="https://raw.githubusercontent.com/nullmicgo/Interactive-Story-App/master/demo.gif" data-canonical-src="https://raw.githubusercontent.com/nullmicgo/Interactive-Story-App/master/demo.gif" height="200" />
