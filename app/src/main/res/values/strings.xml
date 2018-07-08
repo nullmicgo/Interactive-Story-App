@@ -27,25 +27,25 @@
 
 
 
-    <string name="page5">In the interview, senior-programmer ask you a question - What is REACT</string>
+    <string name="page5">(In the interview) %1$s , What is REACT</string>
     <string name="page5_choice1">REACT is a PC GAME</string>
     <string name="page5_choice2">REACT is a PS4 GAME in 2018</string>
 
 
-    <string name="page6">You did not prepare enough for the interview. You FAIL !</string>
+    <string name="page6">%1$s ,You did not prepare enough for the interview. You FAIL !</string>
 
-    <string name="page7">In the interview, senior-programmer ask you a question - What are the advantages of using React?</string>
+    <string name="page7">(In the interview) %1$s , What are the advantages of using React?</string>
     <string name="page7_choice1">It is easy to know how a component is rendered, you just need to look at the render function.</string>
     <string name="page7_choice2">React is good for 3D render in PC Game Development.</string>
 
 
-    <string name="page8"> What are the differences between a class component and functional component?</string>
+    <string name="page8">%1$s , What are the differences between a class component and functional component?</string>
     <string name="page8_choice1">Class components allows you to use additional features such as local state and lifecycle hooks. Also, to enable your component to have direct access to your store and thus holds state.</string>
     <string name="page8_choice2">Class component is using for Video Component. Functional component is using for debug purpose.</string>
 
 
 
-    <string name="page9">You got the offer! Welcome to join our company as a Frontend Developer! (To Be Continued ...)</string>
+    <string name="page9">%1$s ,You got the offer! Welcome to join our company as a Frontend Developer! (To Be Continued ...)</string>
 
 
 

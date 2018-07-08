@@ -13,8 +13,8 @@ public class Story {
 
         pages[0] = new Page(R.drawable.page0,
                 R.string.page0,
-                new com.nullmicgo.itdogstory.model.Choice(R.string.page0_choice1, 1),
-                new com.nullmicgo.itdogstory.model.Choice(R.string.page0_choice2, 3));
+                new com.nullmicgo.itdogstory.model.Choice(R.string.page0_choice1, 3),
+                new com.nullmicgo.itdogstory.model.Choice(R.string.page0_choice2, 1));
 
         pages[1] = new Page(R.drawable.page2,
                 R.string.page1,
