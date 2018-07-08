@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void startStory(String name) {
-        Intent intent = new Intent(this, com.nullmicgo.interactivestory.ui.StoryActivity.class);
+        Intent intent = new Intent(this, com.nullmicgo.itdogstory.ui.StoryActivity.class);
         Resources resources = getResources();
         String key = resources.getString(R.string.key_name);
         intent.putExtra(key, name);

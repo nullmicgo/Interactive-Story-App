@@ -12,8 +12,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.nullmicgo.itdogstory.R;
-import com.nullmicgo.interactivestory.model.Page;
-import com.nullmicgo.interactivestory.model.Story;
+import com.nullmicgo.itdogstory.model.Page;
+import com.nullmicgo.itdogstory.model.Story;
 
 import java.util.Stack;
 
