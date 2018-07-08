@@ -2,32 +2,53 @@
     <string name="app_name">IT DOG STORY</string>
     <string name="key_name">name</string>
     <string name="signals_from_mars_title_image">IT DOG STORY MAIN IMAGE</string>
-    <string name="start_your_adventure">START YOUR CAREER</string>
+    <string name="start_your_adventure">START</string>
     <string name="enter_your_name">Enter your name</string>
 
-    <string name="page0">%1$s just graduated from IT DOG University with a degree in computer science. Should I choose a career in Information Technology?</string>
-    <string name="page0_choice1">Yes, i should become a IT Dog.</string>
-    <string name="page0_choice2">No, i choose another industry.</string>
+    <string name="page0">%1$s just graduated from IT DOG University with a degree in computer science. Do you want to apply frontend developer?</string>
+    <string name="page0_choice1">Yes, i should apply frontend developer.</string>
+    <string name="page0_choice2">No, i should take a rest first.</string>
 
-    <string name="page1">You deftly land your ship near where the distress signal originated. You didn\'t notice anything strange on your fly-by, but there is a cave in front of you. Behind you is an abandoned rover from the early 21st century.</string>
-    <string name="page1_choice1">Explore the cave</string>
-    <string name="page1_choice2">Explore the rover</string>
+    <string name="page1">You choose to take a rest and go play PS4. Do you think you should look for a job now, %1$s ?</string>
+    <string name="page1_choice1">Yes, i will go to find a job now.</string>
+    <string name="page1_choice2">No, i want to play PS4 now!</string>
 
-    <string name="page2">You continue your course to Earth. Two days later, you receive a transmission from HQ saying that they have detected some sort of anomaly on the surface of Mars near an abandoned rover. They ask you to investigate, but ultimately the decision is yours because your mission has already run much longer than planned and supplies are low.</string>
-    <string name="page2_choice1">Head back to Mars to investigate</string>
-    <string name="page2_choice2">Continue home to Earth</string>
+    <string name="page2">After few years, you still do not have any job and you became very poor. You start to regard you waste so much time on video game.</string>
 
-    <string name="page3">Your EVA suit is equipped with a headlamp, which you use to navigate the cave. After searching for a while your oxygen levels are starting to get pretty low. You know you should go refill your tank, but there\'s a very faint light up ahead.</string>
-    <string name="page3_choice1">Refill at ship and explore the rover</string>
-    <string name="page3_choice2">Continue towards the faint light</string>
+    <string name="page3">You are going to have an job interview tomorrow. What are you going to do now?</string>
+    <string name="page3_choice1">Go UDEMY to study more before the interview.</string>
+    <string name="page3_choice2">Skip study and go to the interview directly</string>
 
-    <string name="page4">The rover is covered in dust and most of the solar panels are broken. But you are quite surprised to see the on-board system booted up and running. In fact, there is a message on the screen: \"%1$s, come to 28.543436, -81.369031.\" Those coordinates aren\'t far, but you don\'t know if your oxygen will last for a trip there and back.</string>
-    <string name="page4_choice1">Explore the coordinates</string>
-    <string name="page4_choice2">Return to Earth</string>
 
-    <string name="page5">After a long walk slightly uphill, you end up at the top of a small crater. You look around, and are overjoyed to see your favorite android, %1$s-S1124. It had been lost on a previous mission to Mars! You take it back to your ship and fly back to Earth.</string>
+    <string name="page4">After self-study in udemy online course, you got more and more knowledge now. What are you going to do now?</string>
+    <string name="page4_choice1">Study Again</string>
+    <string name="page4_choice2">I am ready to have an interview now!</string>
 
-    <string name="page6">You arrive home on Earth. While your mission was a success, you forever wonder what was sending that signal. Perhaps a future mission will be able to investigate…</string>
+
+
+
+    <string name="page5">In the interview, senior-programmer ask you a question - What is REACT</string>
+    <string name="page5_choice1">REACT is a PC GAME</string>
+    <string name="page5_choice2">REACT is a PS4 GAME in 2018</string>
+
+
+    <string name="page6">You did not prepare enough for the interview. You FAIL !</string>
+
+    <string name="page7">In the interview, senior-programmer ask you a question - What are the advantages of using React?</string>
+    <string name="page7_choice1">It is easy to know how a component is rendered, you just need to look at the render function.</string>
+    <string name="page7_choice2">React is good for 3D render in PC Game Development.</string>
+
+
+    <string name="page8"> What are the differences between a class component and functional component?</string>
+    <string name="page8_choice1">Class components allows you to use additional features such as local state and lifecycle hooks. Also, to enable your component to have direct access to your store and thus holds state.</string>
+    <string name="page8_choice2">Class component is using for Video Component. Functional component is using for debug purpose.</string>
+
+
+
+    <string name="page9">You got the offer! Welcome to join our company as a Frontend Developer! (To Be Continued ...)</string>
+
+
+
     <string name="story_image_content_description">Story page image</string>
     <string name="play_again_button_text">PLAY AGAIN</string>
 
