@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Signals from Mars</string>
+    <string name="app_name">IT DOG STORY</string>
     <string name="key_name">name</string>
-    <string name="signals_from_mars_title_image">Signals from Mars title image</string>
-    <string name="start_your_adventure">START YOUR ADVENTURE</string>
+    <string name="signals_from_mars_title_image">IT DOG STORY MAIN IMAGE</string>
+    <string name="start_your_adventure">START YOUR CAREER</string>
     <string name="enter_your_name">Enter your name</string>
 
     <string name="page0">On your return trip from studying Saturn\'s rings, you hear a distress signal that seems to be coming from the surface of Mars. It\'s strange because there hasn\'t been a colony there in years. Even stranger, it\'s calling you by name: \"Help me, %1$s, you\'re my only hope.\"</string>
