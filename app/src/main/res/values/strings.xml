@@ -5,9 +5,9 @@
     <string name="start_your_adventure">START YOUR CAREER</string>
     <string name="enter_your_name">Enter your name</string>
 
-    <string name="page0">On your return trip from studying Saturn\'s rings, you hear a distress signal that seems to be coming from the surface of Mars. It\'s strange because there hasn\'t been a colony there in years. Even stranger, it\'s calling you by name: \"Help me, %1$s, you\'re my only hope.\"</string>
-    <string name="page0_choice1">Stop and investigate</string>
-    <string name="page0_choice2">Continue home to Earth</string>
+    <string name="page0">%1$s just graduated from IT DOG University with a degree in computer science. Should I choose a career in Information Technology?</string>
+    <string name="page0_choice1">Yes, i should become a IT Dog.</string>
+    <string name="page0_choice2">No, i choose another industry.</string>
 
     <string name="page1">You deftly land your ship near where the distress signal originated. You didn\'t notice anything strange on your fly-by, but there is a cave in front of you. Behind you is an abandoned rover from the early 21st century.</string>
     <string name="page1_choice1">Explore the cave</string>
