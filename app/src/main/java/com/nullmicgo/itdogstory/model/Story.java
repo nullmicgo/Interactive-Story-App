@@ -9,7 +9,7 @@ public class Story {
     private Page[] pages;
 
     public Story() {
-        pages = new Page[7];
+        pages = new Page[10];
 
         pages[0] = new Page(R.drawable.page0,
                 R.string.page0,
